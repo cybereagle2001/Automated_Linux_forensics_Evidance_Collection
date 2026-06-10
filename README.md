@@ -1,0 +1,2 @@
+# Automated_Linux_forensics_Evidance_Collection
+Automated script for digital forensics evidance collection
